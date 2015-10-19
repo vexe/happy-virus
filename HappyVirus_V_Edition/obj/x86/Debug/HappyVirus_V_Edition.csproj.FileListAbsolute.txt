@@ -1,0 +1,9 @@
+c:\users\vexe\documents\visual studio 2010\Projects\HappyVirus_V_Edition\HappyVirus_V_Edition\bin\Debug\HappyVirus_V_Edition.exe
+c:\users\vexe\documents\visual studio 2010\Projects\HappyVirus_V_Edition\HappyVirus_V_Edition\bin\Debug\HappyVirus_V_Edition.pdb
+c:\users\vexe\documents\visual studio 2010\Projects\HappyVirus_V_Edition\HappyVirus_V_Edition\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vexe\documents\visual studio 2010\Projects\HappyVirus_V_Edition\HappyVirus_V_Edition\obj\x86\Debug\HappyVirus_V_Edition.Properties.Resources.resources
+c:\users\vexe\documents\visual studio 2010\Projects\HappyVirus_V_Edition\HappyVirus_V_Edition\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\vexe\documents\visual studio 2010\Projects\HappyVirus_V_Edition\HappyVirus_V_Edition\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\vexe\documents\visual studio 2010\Projects\HappyVirus_V_Edition\HappyVirus_V_Edition\obj\x86\Debug\HappyVirus_V_Edition.exe
+c:\users\vexe\documents\visual studio 2010\Projects\HappyVirus_V_Edition\HappyVirus_V_Edition\obj\x86\Debug\HappyVirus_V_Edition.pdb
+c:\users\vexe\documents\visual studio 2010\Projects\HappyVirus_V_Edition\HappyVirus_V_Edition\obj\x86\Debug\HappyVirus_V_Edition.Form1.resources
